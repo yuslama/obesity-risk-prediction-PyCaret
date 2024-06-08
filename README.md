@@ -8,7 +8,7 @@ The dataset includes data from individuals in Mexico, Peru, and Colombia, contai
 
 ## Objective
 
-To predict obesity risk in individuals, which is related to cardiovascular disease. Participants are encouraged to explore the dataset, perform exploratory data analysis (EDA), visualize feature distributions, and develop machine learning models to predict the obesity level.
+To predict obesity risk in individuals, which is related to cardiovascular disease. Explore the dataset, perform exploratory data analysis (EDA), visualize feature distributions, and develop machine learning models to predict the obesity level.
 
 ## Classification using PyCaret
 
