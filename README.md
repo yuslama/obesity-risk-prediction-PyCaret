@@ -2,6 +2,8 @@
 
 Welcome to the Obesity Risk Prediction project! This project aims to predict obesity risk in individuals based on various factors related to their eating habits, physical condition, and lifestyle. The dataset used for training and testing was generated from a deep learning model trained on the Obesity or Cardiovascular Disease (CVD) risk dataset. The competition objective is to predict the class of NObeyesdad (Obesity Level) for each individual in the test dataset.
 
+- **alternative preview**: Sometime the github failed to render the .ipynb so open this instead [nbviewer](https://nbviewer.org/github/yuslama/obesity-risk-prediction-PyCaret/blob/main/obesity_risk.ipynb).
+
 ## Dataset Information
 
 The dataset includes data from individuals in Mexico, Peru, and Colombia, containing 17 attributes and 2111 records. The attributes include features such as Gender, Age, Height, Weight, family_history_with_overweight, FAVC (Frequency of High Caloric Food Consumption), FCVC (Frequency of Vegetable Consumption), and more. The target variable, NObeyesdad, represents the obesity level, categorized as Insufficient Weight, Normal Weight, Overweight Level I, Overweight Level II, Obesity Type I, Obesity Type II, and Obesity Type III.
